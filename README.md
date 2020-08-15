@@ -1,1 +1,3 @@
 # Job-Recommendation-System
+
+The report analyzes the role of data in the business model. It discusses different parts of a data science project from the perspective of the data science process and from the perspective of the roles such as statistician, archivist, analyst and systems architect; analyzes the size and scope of data storage and data processing, and present the basic technologies in use, locate and assess resources, software and tools for a data science project. It also discusses the kinds of data analysis and statistical methods suitable for the data science project and think critically and creatively by providing justification and analysis to some realistic data.
